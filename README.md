@@ -13,7 +13,7 @@
 
 -drop the unnecessary column
 
--drop the target column & asssign the data a new variable
+-drop the target column & assign the data a new variable
 
 -draw boxplot by using seaborn library
 
