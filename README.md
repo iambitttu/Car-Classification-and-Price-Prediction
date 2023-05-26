@@ -1,6 +1,6 @@
 # Final project
 
-###Cars Classification using Machine Learning
+##Cars Classification using Machine Learning
 
 1. Introduction:
    This documentation outlines the key steps and decisions involved in building a machine learning model for classifying cars into different categories. The dataset 'cars_class.csv' contains information about various cars, including numerical features and the target variable representing the class of the car.
@@ -43,7 +43,7 @@
    Assess the importance of different features in the 'final_model.' Use techniques like feature importance plots, permutation importance, or SHAP values to understand the contribution of each feature towards the model's predictions.
    
    
-###Car Price Prediction using Machine Learning
+##Car Price Prediction using Machine Learning
 
 1. Introduction:
    This documentation outlines the key steps and decisions involved in building a machine learning model for predicting car prices. The dataset 'cars_price.csv' contains information about various cars, including 25 features and the target variable representing the price of the car.
